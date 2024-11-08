@@ -1,0 +1,15 @@
+{
+  "name": "pwa_avaliacao2_pdm2_dupla_joao_e_talita",
+  "version": "1.0.0",
+  "description": "PWA de Receitas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "João Pedro Alves Canezin e Talita Gabriela Del Poso Vilalva INFO6B",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
