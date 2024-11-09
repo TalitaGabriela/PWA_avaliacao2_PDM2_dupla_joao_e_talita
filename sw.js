@@ -1,5 +1,5 @@
 let cacheName = "receitas-incriveis";
-let filesToCache = ["/", "/index", "/css/style.css", "/css/receita.css", "/js/main.js", "/carnes", "/massas", "/doces"];
+let filesToCache = ["/", "/index.html", "/css/style.css", "/css/receita.css", "/js/main.js", "/carnes", "/massas", "/doces"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(
